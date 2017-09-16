@@ -1,1 +1,1 @@
-# "Hello, Kernel World" template
+# "Kernel"
